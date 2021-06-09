@@ -48,3 +48,12 @@ form {
   margin: 20px;
   justify-content: center;
 }
+
+.hidden {
+  display: none;
+  text-align: center;
+}
+
+#btn-section {
+  text-align: center;
+}
